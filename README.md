@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Hugo Souza, self-taught backend developer, very interested in designing and developing highly scalable and available systems. I'm always looking for as much experience and knowledge as possible to develop things that impact everyone's experience.
+I'm Hugo Souza, self-taught backend developer, very interested in designing and developing highly scalable and available systems. I'm always looking for as much experience and knowledge as possible, making me able to share and develop things that have a surprising impact on everyone's experience.
 
 #### Languages and tools
 
