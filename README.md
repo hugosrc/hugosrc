@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Hugo Souza, Software Engineer, interested in design and development of highly scalable and available systems. I seek as much experience and knowledge as possible, which allows me to share and develop things that impact everyone's experience.
+I'm Hugo Souza, Software Developer, interested in design and development of highly scalable and available systems. I seek as much experience and knowledge as possible, which allows me to share and develop things that impact everyone's experience.
 
 #### Languages and Tools
 
