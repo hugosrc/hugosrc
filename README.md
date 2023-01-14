@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm Hugo Souza, I currently work as a back-end software developer.
-
-👀 I am interested in various subjects about computing and its applications, which include, software engineering, IoT, computer hardware and programming languages.
+👀 I'm Hugo Souza, a back-end software developer interested in various subjects about computing and its applications, which include software engineering, IoT, computer hardware and programming languages.
 
 🌱 I am currently dedicated to learning software engineering, making applications scalable and highly available, to understand the best ways to apply this knowledge to solve real world problems.
 
