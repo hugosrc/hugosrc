@@ -2,7 +2,7 @@
 
 I'm Hugo Souza, a back-end software developer interested in various subjects about computing and its applications, which include software engineering, IoT, computer hardware and programming languages.
 
-🚀 **Skills Snapshot:**
+🚀 **Skills:**
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,react,java,spring,docker,aws)
 
