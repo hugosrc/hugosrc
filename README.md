@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-👀 I'm Hugo Souza, a back-end software developer interested in various subjects about computing and its applications, which include software engineering, IoT, computer hardware and programming languages.
+I'm Hugo Souza, a back-end software developer interested in various subjects about computing and its applications, which include software engineering, IoT, computer hardware and programming languages.
 
-🌱 I am currently dedicated to learning software engineering, making applications scalable and highly available, to understand the best ways to apply this knowledge to solve real world problems.
+🚀 **Skills Snapshot:**
 
-#### Some languages and tools
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,java,spring,docker,aws)
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,go,git,postgresql,mongodb,docker)](https://skillicons.dev)
-          
-#### You can reach me on my LinkedIn
+Explore my proficiency in JavaScript, TypeScript, React, Java, Spring, Docker, and AWS. These skills form the foundation of my ability to create robust and cutting-edge applications.
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hugosrc)
-[hugosrc](https://www.linkedin.com/in/hugosrc)
+🌐 **Connect with Me:**
+- [LinkedIn](https://www.linkedin.com/in/hugosrc)
