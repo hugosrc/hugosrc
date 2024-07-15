@@ -4,7 +4,7 @@ I'm Hugo Souza, a back-end software developer interested in various subjects abo
 
 🚀 **Skills:**
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,java,spring,docker,aws)
+![My Skills](https://skillicons.dev/icons?i=js,ts,nest,react,java,spring,docker,aws)
 
 Explore my proficiency in JavaScript, TypeScript, React, Java, Spring, Docker, and AWS. These skills form the foundation of my ability to create robust and cutting-edge applications.
 
